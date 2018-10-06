@@ -1,0 +1,2 @@
+person = {}
+print(person)
